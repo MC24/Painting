@@ -1,0 +1,10 @@
+c:\users\matt\documents\visual studio 2013\Projects\SimpleDrawingApp\SimpleDrawingApp\bin\Debug\SimpleDrawingApp.exe.config
+c:\users\matt\documents\visual studio 2013\Projects\SimpleDrawingApp\SimpleDrawingApp\bin\Debug\SimpleDrawingApp.exe
+c:\users\matt\documents\visual studio 2013\Projects\SimpleDrawingApp\SimpleDrawingApp\bin\Debug\SimpleDrawingApp.pdb
+c:\users\matt\documents\visual studio 2013\Projects\SimpleDrawingApp\SimpleDrawingApp\bin\Debug\SimpleDrawingApp.xml
+c:\users\matt\documents\visual studio 2013\Projects\SimpleDrawingApp\SimpleDrawingApp\obj\Debug\SimpleDrawingApp.Form1.resources
+c:\users\matt\documents\visual studio 2013\Projects\SimpleDrawingApp\SimpleDrawingApp\obj\Debug\SimpleDrawingApp.Resources.resources
+c:\users\matt\documents\visual studio 2013\Projects\SimpleDrawingApp\SimpleDrawingApp\obj\Debug\SimpleDrawingApp.vbproj.GenerateResource.Cache
+c:\users\matt\documents\visual studio 2013\Projects\SimpleDrawingApp\SimpleDrawingApp\obj\Debug\SimpleDrawingApp.exe
+c:\users\matt\documents\visual studio 2013\Projects\SimpleDrawingApp\SimpleDrawingApp\obj\Debug\SimpleDrawingApp.xml
+c:\users\matt\documents\visual studio 2013\Projects\SimpleDrawingApp\SimpleDrawingApp\obj\Debug\SimpleDrawingApp.pdb
